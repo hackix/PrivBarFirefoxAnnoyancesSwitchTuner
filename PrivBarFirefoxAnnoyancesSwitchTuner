@@ -1,0 +1,2362 @@
+{
+  "prefbar:info": {
+    "formatversion": 3
+  },
+  "prefbar:menu:enabled": {
+    "items": [
+      "prefbar:button:{5d0186be-b943-4d0d-8db7-6e1ff70a55b3}",
+      "prefbar:button:PrivQuickClear",
+      "prefbar:button:{4e4fff78-0ad0-4bb0-81cc-8d79e59df6ba}",
+      "prefbar:button:PrivSendHTTPReferrer",
+      "prefbar:button:PrivSendHTTPSReferrer",
+      "prefbar:button:{3fba7656-3e5a-488c-9b07-b23b0be8b772}",
+      "prefbar:button:{7251fb17-ce2c-4fe3-bbcb-55ba3a8230c0}",
+      "prefbar:button:PrivImprovements",
+      "prefbar:button:{3b9797f6-d442-4142-9ddb-238057f51dd8}",
+      "prefbar:button:PrivFullClear",
+      "prefbar:button:useragent",
+      "prefbar:button:PrivUserContext",
+      "prefbar:button:{7c410624-dea7-4f98-bea0-33858e4448c3}",
+      "prefbar:button:PriveSecuritySensitive",
+      "prefbar:button:{551afde9-920f-4649-acf5-d65dd4a29567}",
+      "prefbar:button:PrivOCSP",
+      "prefbar:button:PrivOCSPRequired",
+      "prefbar:button:PrivSafebrowsingSupport",
+      "prefbar:button:PrivSafebrowsingDownloads",
+      "prefbar:button:PrivSafebrowsingMalware",
+      "prefbar:button:PrivSafebrowsingDownloadsRemote",
+      "prefbar:button:PrivSearchEngineUpdater",
+      "prefbar:button:{f54d6339-24ff-42fe-808e-b21c1c49d096}",
+      "prefbar:button:PrivFunctionVitals",
+      "prefbar:button:{6513c4b3-14ef-4f6f-8c48-21b4806754fc}",
+      "prefbar:button:PrivHistoryAllowPushState",
+      "prefbar:button:PrivHistoryAllowPopState",
+      "prefbar:button:PrivHistoryAllowReplaceState",
+      "prefbar:button:PrivyDisplayUseDocumentFonts",
+      "prefbar:button:PrivBlockMixedDisplayContent",
+      "prefbar:button:PrivCanvasPath",
+      "prefbar:button:PrivCacheFilesystemReporting",
+      "prefbar:button:PrivCookies",
+      "prefbar:button:PrivCookiesDisabled",
+      "prefbar:button:PrivDOMIndexedDB",
+      "prefbar:button:PrivDOMIpcPluginsDetection",
+      "prefbar:button:PrivGFXDownloadableFonts",
+      "prefbar:button:PrivMediaAPINavigator",
+      "prefbar:button:PrivMediaAPINavigatorVideo",
+      "prefbar:button:PrivSendReferrer",
+      "prefbar:button:PrivSendSecureXSiteReferrer",
+      "prefbar:button:PrivSocialAPI",
+      "prefbar:button:SecActiveContentSocialAPIShareActivationPanel",
+      "prefbar:button:{96749fe7-e269-429b-9213-29fe68d8ec08}",
+      "prefbar:button:PrivFunctionSensitive",
+      "prefbar:button:{f03a5e45-1244-4ee6-93ee-243331fde1c1}",
+      "prefbar:button:PrivDomStorage",
+      "prefbar:button:PrivDOMDatastore",
+      "prefbar:button:PrivDOMClipboardevents",
+      "prefbar:button:PrivDOMIpcURLCrashreporter",
+      "prefbar:button:PrivDOMIpcFlashSubprocessCrashreporter",
+      "prefbar:button:PrivDOMKeyboardEventCompositionDispatch",
+      "prefbar:button:PrivDOMKeyboardEvent",
+      "prefbar:button:PrivDOMKeyboardEventCode",
+      "prefbar:button:PrivDOMmsRequestReadReport",
+      "prefbar:button:PrivDOMmsRequestStatusReport",
+      "prefbar:button:PrivDOMSmsRequestStatusReport",
+      "prefbar:button:PrivFullScreenAPI",
+      "prefbar:button:PrivGfxColorManagementMode",
+      "prefbar:button:PrivGFXDownloadableFontsCached",
+      "prefbar:button:PrivGFXFontRenderingFontconfigFontlist",
+      "prefbar:button:PrivGeoAPI",
+      "prefbar:button:PrivLayoutCSSVisitedLinks",
+      "prefbar:button:PrivLoopFacebook",
+      "prefbar:button:PrivLoopTextChat",
+      "prefbar:button:PrivMediaAPINavigatorLoadAdapt",
+      "prefbar:button:PrivMediaAPIVideoStats",
+      "prefbar:button:PrivMediaAPIPeerconnectionIdentity",
+      "prefbar:button:PrivPageThumbnailsCapturing",
+      "prefbar:button:PrivAddressBarKeywords",
+      "prefbar:button:PrivFormfillEnable",
+      "prefbar:button:LocationBarSearchSuggestions",
+      "prefbar:button:PrivTypeaheadfindFlashbar",
+      "prefbar:button:PrivTypeaheadfindSelectionPrefill",
+      "prefbar:button:PrivTypeaheadfindAutostart",
+      "prefbar:button:PrivSearchBarSuggestions",
+      "prefbar:button:PrivUrlBarBookmarksSuggestion",
+      "prefbar:button:PrivUrlBarUnifiedComplete",
+      "prefbar:button:{4bdc54ee-e259-4032-b608-0d013c7be6a7}",
+      "prefbar:button:PrivSafe",
+      "prefbar:button:{171f4ac3-690f-45ff-917c-ec5c5e9730a5}",
+      "prefbar:button:PrivBeacon",
+      "prefbar:button:PrivBrowserSendPings",
+      "prefbar:button:CameraControlAutofocusMovingCallback",
+      "prefbar:button:PrivCameraControlFaceDetection",
+      "prefbar:button:PrivCookieLifetimePolicy",
+      "prefbar:button:Priv3rdPartyCookiesSessionRestriction",
+      "prefbar:button:PrivDatareportingHealtreportUplaod",
+      "prefbar:button:PrivDatareportingHealthreportLoggingConsole",
+      "prefbar:button:PrivDatareportingHealthreportServiceFirstRun",
+      "prefbar:button:PrivDatareportingHealthreportService",
+      "prefbar:button:PrivDatareportingSessionCurrentClean",
+      "prefbar:button:PrivDatareportingDataSubmissionPolicy",
+      "prefbar:button:PrivDeviceSensors",
+      "prefbar:button:PrivDOMAddTestDevices",
+      "prefbar:button:PrivDOMBatteryStatus",
+      "prefbar:button:PrivDOMGamepad",
+      "prefbar:button:PrivDOMIdentity",
+      "prefbar:button:PrivDOMPerformanceUsageSend",
+      "prefbar:button:PrivDOMResourceTimingAPI",
+      "prefbar:button:PrivDOMNetinfo",
+      "prefbar:button:PrivDOMNetwork",
+      "prefbar:button:PrivDOMTelephonn",
+      "prefbar:button:PrivDOMUserTimingAPI",
+      "prefbar:button:PrivDOMDetectVR",
+      "prefbar:button:PrivDOMOculusVR50",
+      "prefbar:button:PrivMediaAPIWebspeechRecognition",
+      "prefbar:button:PrivNetworkDnsIPv6",
+      "prefbar:button:PrivNetworkDnsPrefetch",
+      "prefbar:button:PrivNetworkPrefetchNext",
+      "prefbar:button:PrivNetworkPredictor",
+      "prefbar:button:SecNetworkHttpSPDYv3-1",
+      "prefbar:button:SecNetworkHttpSPDYv3",
+      "prefbar:button:SecNetworkHttp2SPDY",
+      "prefbar:button:SecNetworkHttpSPDY",
+      "prefbar:button:PrivNewTabAPIPreload",
+      "prefbar:button:PrivNewTabPageExposee",
+      "prefbar:button:PrivNewTabPageEnhanced",
+      "prefbar:button:PrivObserverAPI",
+      "prefbar:button:SecActiveContentPocket",
+      "prefbar:button:PrivSanitizeOnShutdown",
+      "prefbar:button:PrivCOSSiteSettings",
+      "prefbar:button:PrivCOSSessions",
+      "prefbar:button:PrivCOSPasswords",
+      "prefbar:button:PrivCOSOfflineApps",
+      "prefbar:button:PrivCOSHistory",
+      "prefbar:button:PrivCOSFormdata",
+      "prefbar:button:PrivCOSDownloads",
+      "prefbar:button:PrivCOSCookies",
+      "prefbar:button:PrivCOSCache",
+      "prefbar:button:PrivCPDExctensionsData",
+      "prefbar:button:PrivCPDSiteSettings",
+      "prefbar:button:PrivCPDSessions",
+      "prefbar:button:PrivCPDPasswords",
+      "prefbar:button:PrivCPDHistory",
+      "prefbar:button:PrivCPDOfflineApps",
+      "prefbar:button:PrivCPDFormData",
+      "prefbar:button:PrivCPDDownloads",
+      "prefbar:button:PrivCPDCookies",
+      "prefbar:button:PrivCPDCache",
+      "prefbar:button:PrivSSLErrorReporting",
+      "prefbar:button:PrivSSLErrorReportingAutomatic",
+      "prefbar:button:PrivTabsSendCrashRepors",
+      "prefbar:button:PrivToolkitIdentity",
+      "prefbar:button:PrivToolkitTelemetryArchive",
+      "prefbar:button:PrivToolkitTelemetry",
+      "prefbar:button:PrivToolkitTelemetryReportFirstRun",
+      "prefbar:button:PrivToolkitTelemetryUnified",
+      "prefbar:button:PrivTrackingProtection",
+      "prefbar:button:PrivTrackingProtectionUI",
+      "prefbar:button:PrivTrackingProtectionPBMode",
+      "prefbar:button:PrivSendDoNotTrackHeader",
+      "prefbar:button:separator6",
+      "prefbar:button:{1fb42524-0ef0-4f02-94d9-6fdba038810f}",
+      "prefbar:button:SecFunctionVitals",
+      "prefbar:button:{f6eba34d-7448-46bb-bb7d-6c2d264ffb14}",
+      "prefbar:button:SecAsmJS",
+      "prefbar:button:SecAutfillCredentials",
+      "prefbar:button:SecSSLUnsafeNegotiationWarning",
+      "prefbar:button:SecSSLInsecurePagesFallbackWhitelistAllowed",
+      "prefbar:button:SecSSLRequireSafeNegotiations",
+      "prefbar:button:SecSSLNoInsecureTLSFallbackWhitelistedPages",
+      "prefbar:button:SecWeakSSL3RsaRc4Sha",
+      "prefbar:button:SecWeakSSL3RsaRc4Md5",
+      "prefbar:button:SecWeakSSL3RsaDesRC4",
+      "prefbar:button:SecWeakSSL3RsaRC4Sha",
+      "prefbar:button:SecWeakSSL3EcdsaRC4",
+      "prefbar:button:SecActiveContentJavascript",
+      "prefbar:button:SecActiveContentJava",
+      "prefbar:button:SecActiveContentFlash",
+      "prefbar:button:SecActiveContentBlockMixed",
+      "prefbar:button:SecActiveContentMediaAutoplay",
+      "prefbar:button:SecAPIXpConnetPluginUnrestricted",
+      "prefbar:button:SecWebGL",
+      "prefbar:button:SecWebGLAPIExtensions",
+      "prefbar:button:SecWebGLPdfJS",
+      "prefbar:button:{b0a42391-3a95-4b54-b7d7-fcc939d61799}",
+      "prefbar:button:SecFunctionSensitive",
+      "prefbar:button:{ea50c1ad-3424-4b4b-8437-2bbd7e043a30}",
+      "prefbar:button:SecCanvasCaptureStream",
+      "prefbar:button:SecActiveContentLoop",
+      "prefbar:button:SecActiveContentEmeAPI",
+      "prefbar:button:SecActiveContentVisibilityEmeAPI",
+      "prefbar:button:SecMediaEmeUI",
+      "prefbar:button:SecActiveContentMediaAPIGetUserMediaBrowser",
+      "prefbar:button:SecActiveContentMediaAPIGetusermediaScreensharing",
+      "prefbar:button:SecActiveContentMediaAPIPeerconnection",
+      "prefbar:button:SecActiveContentMediaAPIPeerconnetionDocIceservers",
+      "prefbar:button:SecActiveContentMediaAPIPeerconnectionVideo",
+      "prefbar:button:SecActiveContentPdfJS",
+      "prefbar:button:SecDomEnableResourceTiming",
+      "prefbar:button:SecActiveContentSocialAPIRemoteInstallation",
+      "prefbar:button:{67a0f6fc-0292-4f96-a91a-6e51fabcc0fb}",
+      "prefbar:button:SecSafe",
+      "prefbar:button:{234738bb-8477-49f5-8995-dff27b26ba11}",
+      "prefbar:button:SecActiveExperiments",
+      "prefbar:button:SecExperiementsAPISupport",
+      "prefbar:button:SecExperiemntsAPI",
+      "prefbar:button:SecNetworkExperimentsAllowed",
+      "prefbar:button:separator11",
+      "prefbar:button:{544ecc0e-4c3f-4c53-b398-62b5f85e0122}",
+      "prefbar:button:TweakImprovements",
+      "prefbar:button:{6234778f-5cf5-406a-b5a3-a5155b56e746}",
+      "prefbar:button:TweakPipelining",
+      "prefbar:button:TweakRAMCachingHTTPS",
+      "prefbar:button:TweakRAMCachingHTTP",
+      "prefbar:button:{9fcf79cf-36a6-47cd-858b-6ca7a4e584a3}",
+      "prefbar:button:TweakSecuritySensitive",
+      "prefbar:button:{22d9c5d1-b217-4d82-9c7a-e400b9134a70}",
+      "prefbar:button:TweakUpdatePlugins",
+      "prefbar:button:TweakAutoUpdate",
+      "prefbar:button:TweakUpdate",
+      "prefbar:button:TweakExtensionsAutoUpdate",
+      "prefbar:button:TweakExtensionsUpdate",
+      "prefbar:button:{ea144c4e-f640-4758-8b98-993cafe52de9}",
+      "prefbar:button:TweakFunctionSensitive",
+      "prefbar:button:{06f7381c-35ff-4ada-bd5d-cd42380d2651}",
+      "prefbar:button:SecGFXRender",
+      "prefbar:button:TweakHardwareLayersAcceleration",
+      "prefbar:button:TweakMediaAPIHardwareVideoDecoding",
+      "prefbar:button:{65272382-3eff-4eb8-a443-b4101c08220b}",
+      "prefbar:button:TweakSafe",
+      "prefbar:button:{dca6cdd1-3686-4ba3-ade2-7d00d881d017}",
+      "prefbar:button:TweakSearchOpenInNewTab",
+      "prefbar:button:{0cd97433-1390-4622-8993-339ffa1e2a08}",
+      "prefbar:button:NoscriptAjaxFallback",
+      "prefbar:button:NoscriptABE",
+      "prefbar:button:NoscriptAutoReload",
+      "prefbar:button:NoscriptAutoreloadGlobal",
+      "prefbar:button:NoscriptReloadAllTabs",
+      "prefbar:button:NoscriptAutoreloadAllTabsOnGlobal",
+      "prefbar:button:NoscriptAutoreloadAllTabsOnPageAction",
+      "prefbar:button:NoscriptBookmarks",
+      "prefbar:button:NoscriptBookmarkletsAllowed",
+      "prefbar:button:NoscriptBookmarkletImports",
+      "prefbar:button:NoscriptPlugins",
+      "prefbar:button:NoscriptClearClick",
+      "prefbar:button:NoscriptClipboard",
+      "prefbar:button:NoscriptDoNotTrack",
+      "prefbar:button:NoscriptEF",
+      "prefbar:button:NoscriptFilterExceptionsBlogspot",
+      "prefbar:button:NoscriptFilterExceptionsFBConnect",
+      "prefbar:button:NoscriptFilterExceptionsPhotobucket",
+      "prefbar:button:NoscriptFilterExceptionsVerizon",
+      "prefbar:button:NoscriptFilterExceptionsVisa",
+      "prefbar:button:NoscriptFilterExceptionsYahoo",
+      "prefbar:button:NoscriptFilterExceptionsZendesk",
+      "prefbar:button:NoscriptFonts",
+      "prefbar:button:NoscriptForbidFlash",
+      "prefbar:button:NoscriptFrameOptions",
+      "prefbar:button:NoscriptForbidFrames",
+      "prefbar:button:NoscriptToStaticHTML",
+      "prefbar:button:NoscriptGlobalHTTPSWhitelist",
+      "prefbar:button:NoscriptHTTPSOnly",
+      "prefbar:button:NoscriptForbidIFrameContext",
+      "prefbar:button:NoscriptForbidIFrames",
+      "prefbar:button:NoscriptInjectionCheckPost",
+      "prefbar:button:NoscriptInjectionCheckHTML",
+      "prefbar:button:NoscriptAudioAPI",
+      "prefbar:button:NoscriptForbidJava",
+      "prefbar:button:NoscriptLiveConnectInterception",
+      "prefbar:button:NoscriptLocalLinks",
+      "prefbar:button:NoscriptForbidMedia",
+      "prefbar:button:NoscriptForbidMetaRefresh",
+      "prefbar:button:NoscriptForbidMixedFrames",
+      "prefbar:button:NoscriptNotifyOnUpdate",
+      "prefbar:button:NoscriptNoPing",
+      "prefbar:button:NoscriptForbidPlugins",
+      "prefbar:button:NoscriptScriptLoadEventsOnlyRequireJS",
+      "prefbar:button:NoscriptScriptLoadEvents",
+      "prefbar:button:NoscriptSecureCookies",
+      "prefbar:button:NoscriptForbidSilverlight",
+      "prefbar:button:NoscriptSilverlightPatch",
+      "prefbar:button:NoscriptSmartClickToPlay",
+      "prefbar:button:NoscriptRemoveSMILKeySniffer",
+      "prefbar:button:NoscriptNoSniff",
+      "prefbar:button:NoscriptSound",
+      "prefbar:button:NoscriptSurrogates",
+      "prefbar:button:NoscriptSync",
+      "prefbar:button:NoscriptFilterXPost",
+      "prefbar:button:NoscriptUnrestrictedSubdocScripting",
+      "prefbar:button:NoscriptVisibleUIChecked",
+      "prefbar:button:NoscriptForbidWebGL",
+      "prefbar:button:NoscriptWhitelistImports",
+      "prefbar:button:NoscriptForbidXBL",
+      "prefbar:button:NoscriptForbidXHR",
+      "prefbar:button:NoscriptForbidXSLT",
+      "prefbar:button:NoscriptXSSCheckInclusions",
+      "prefbar:button:NoscriptInjectionCheck",
+      "prefbar:button:NoscriptDropXssProtection",
+      "prefbar:button:{6bed6390-cce9-43ef-896d-5bea9960a1c2}",
+      "prefbar:button:{cbecc6c0-2eb8-4001-8fe5-0ab3e5886ff8}",
+      "prefbar:button:AppearFunctionVitals",
+      "prefbar:button:{4e4eeba9-ca9d-413a-88d1-a7daeb16c7fb}",
+      "prefbar:button:AppearImages",
+      "prefbar:button:AppearImagesBlock3rdParty",
+      "prefbar:button:{833c4365-47be-4ce2-b36e-7d11fa05b246}",
+      "prefbar:button:AppearFunctionSensitive",
+      "prefbar:button:{0fa2fdb4-3ec1-4c86-819c-91d0bd8c97dc}",
+      "prefbar:button:AppearDOMImageSrcSet",
+      "prefbar:button:AppearDOMWindowsFlipZ",
+      "prefbar:button:NGLayout Draggable Images",
+      "prefbar:button:AppearPopups",
+      "prefbar:button:AppearDomWindowMoveResize",
+      "prefbar:button:{f90a8aa8-5cc5-493d-8672-f21868ef9de7}",
+      "prefbar:button:AppearSafe",
+      "prefbar:button:{7e8811a9-46b1-4eb6-87cb-97a8ab983533}",
+      "prefbar:button:AppearBlockPageAutorefresh",
+      "prefbar:button:AppearColors",
+      "prefbar:button:AppearSysColors",
+      "prefbar:button:AppearDevtoolsWebIDE",
+      "prefbar:button:AppearDevtoolsWebIDEAutoinstallADBHelper",
+      "prefbar:button:AppearDevtoolsWebIDEAutoninstallFxdtAdapters",
+      "prefbar:button:AppearGFXMissingFontsNotification",
+      "prefbar:button:AppearWebGLMSAA",
+      "prefbar:button:{f51931cd-9f95-4e65-9786-a7d09eda95c6}"
+    ]
+  },
+  "prefbar:button:{5d0186be-b943-4d0d-8db7-6e1ff70a55b3}": {
+    "type": "separator"
+  },
+  "prefbar:button:PrivQuickClear": {
+    "label": "Clear Quick Privacy",
+    "type": "button",
+    "onclick": "//### Custom Clear Button ###\n\nprefbarClearLocationBar();\nprefbarClearHistory();\nprefbarClearAllCache();\nprefbarClearCookies();\nprefbarClearFormData();\nprefbarClearDownloads();\n//prefbarClearPasswords();\n//prefbarClearSessions();\nprefbarClearOfflineApps();"
+  },
+  "prefbar:button:{4e4fff78-0ad0-4bb0-81cc-8d79e59df6ba}": {
+    "type": "separator"
+  },
+  "prefbar:button:PrivSendHTTPReferrer": {
+    "label": "Send HTTP Referrer",
+    "type": "check",
+    "prefstring": "network.http.sendRefererHeader",
+    "topref": "2*Number(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivSendHTTPSReferrer": {
+    "label": "Send HTTPS Referrer",
+    "type": "check",
+    "prefstring": "network.http.sendSecureXSiteReferrer",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:{3fba7656-3e5a-488c-9b07-b23b0be8b772}": {
+    "type": "separator"
+  },
+  "prefbar:button:{7251fb17-ce2c-4fe3-bbcb-55ba3a8230c0}": {
+    "type": "separator"
+  },
+  "prefbar:button:PrivImprovements": {
+    "type": "text",
+    "label": "IMPROVES PRIVACY"
+  },
+  "prefbar:button:{3b9797f6-d442-4142-9ddb-238057f51dd8}": {
+    "type": "separator"
+  },
+  "prefbar:button:PrivFullClear": {
+    "label": "Clear Full Privacy (CLEAR ALL BROWSING DATA NOW!)",
+    "type": "button",
+    "onclick": "//### Custom Clear Button ###\n\nprefbarClearLocationBar();\nprefbarClearHistory();\nprefbarClearAllCache();\nprefbarClearCookies();\nprefbarClearFormData();\nprefbarClearDownloads();\n//prefbarClearPasswords();\n//prefbarClearSessions();\nprefbarClearOfflineApps();"
+  },
+  "prefbar:button:useragent": {
+    "items": [
+      [
+        "Real UA",
+        "!RESET!"
+      ],
+      [
+        "SM 2.7.2 Lin",
+        "js:useragent=\"Mozilla/5.0 (X11; Linux i686; rv:10.0.2) Gecko/20120216 SeaMonkey/2.7.2\"; appname=\"Netscape\"; appversion=\"5.0 (X11)\"; platform=\"Linux i686\";"
+      ],
+      [
+        "FF 10.0.2 Lin",
+        "js:useragent=\"Mozilla/5.0 (X11; Linux i686; rv:10.0.2) Gecko/20100101 Firefox/10.0.2\"; appname=\"Netscape\"; appversion=\"5.0 (X11)\"; platform=\"Linux i686\";"
+      ],
+      [
+        "IE 9.0 Win7",
+        "js:useragent=\"Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1)\"; appname=\"Microsoft Internet Explorer\"; appversion=\"5.0 (compatible; MSIE 9.0; Windows NT 6.1)\"; platform=\"Win32\";"
+      ],
+      [
+        "Chrome",
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.21 (KHTML, like Gecko) Chrome/19.0.1042.0 Safari/535.21"
+      ],
+      [
+        "Safari",
+        "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; en-us) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1"
+      ],
+      [
+        "Lynx",
+        "Lynx/2.8.3rel.1 libwww-FM/2.14FM"
+      ]
+    ],
+    "label": "User Agent Switcher (changes Browser ID)",
+    "type": "extlist",
+    "dontupdatelistitems": true,
+    "setfunction": "prefbarSetUseragent(value);",
+    "getfunction": "value = prefbarGetUseragent(items);"
+  },
+  "prefbar:button:PrivUserContext": {
+    "label": "Privacy User Context Separation (ON: separated Data per Session Tab)",
+    "type": "check",
+    "prefstring": "privacy.userContext.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:{7c410624-dea7-4f98-bea0-33858e4448c3}": {
+    "type": "separator"
+  },
+  "prefbar:button:PriveSecuritySensitive": {
+    "type": "text",
+    "label": "SECURITY TRADEOFFS"
+  },
+  "prefbar:button:{551afde9-920f-4649-acf5-d65dd4a29567}": {
+    "type": "separator"
+  },
+  "prefbar:button:PrivOCSP": {
+    "label": "OCSP TLS Certificate Revocation Checking (OFF: no visited HTTPS page cert analysing by 3rd Party)",
+    "type": "check",
+    "prefstring": "security.OCSP.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivOCSPRequired": {
+    "label": "OCSP TLS Cert Revocation Check Validity Enforced",
+    "type": "check",
+    "prefstring": "security.OCSP.require",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivSafebrowsingSupport": {
+    "label": "Safebrowsing Protection Support (OFF: no Phishing Attack Warnings!)",
+    "type": "check",
+    "prefstring": "browser.safebrowsing.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivSafebrowsingDownloads": {
+    "label": "Safebrowsing Downloads Protection (OFF: no downloaded Malware Warnings!)",
+    "type": "check",
+    "prefstring": "browser.safebrowsing.downloads.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivSafebrowsingMalware": {
+    "label": "Safebrowsing Malware Protection Support (OFF: no ad hoc Malware Protection!)",
+    "type": "check",
+    "prefstring": "browser.safebrowsing.malware.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivSafebrowsingDownloadsRemote": {
+    "label": "Safebrowsing Remote Downloads Protection (OFF: no downloaded Malware Warnings!)",
+    "type": "check",
+    "prefstring": "browser.safebrowsing.downloads.remote.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivSearchEngineUpdater": {
+    "label": "Search Engine Updater (OFF: no SearchPlugin vendor home calls)",
+    "type": "check",
+    "prefstring": "browser.search.update",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:{f54d6339-24ff-42fe-808e-b21c1c49d096}": {
+    "type": "separator"
+  },
+  "prefbar:button:PrivFunctionVitals": {
+    "type": "text",
+    "label": "HIGH SIDE EFFECTS POSSIBILITY"
+  },
+  "prefbar:button:{6513c4b3-14ef-4f6f-8c48-21b4806754fc}": {
+    "type": "separator"
+  },
+  "prefbar:button:PrivHistoryAllowPushState": {
+    "label": "Alllow History Entry Additions by JS",
+    "type": "check",
+    "prefstring": "browser.history.allowPushState",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivHistoryAllowPopState": {
+    "label": "Alllow History State Manipulation by JS (OFF: may affect Youtube!)",
+    "type": "check",
+    "prefstring": "browser.history.allowPopState",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivHistoryAllowReplaceState": {
+    "label": "Alllow History Entry Replacements by JS (OFF: may affect Youtube!)",
+    "type": "check",
+    "prefstring": "browser.history.allowReplaceState",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivyDisplayUseDocumentFonts": {
+    "label": "Allow Websites using Document Fonts (OFF: may result in ugly Text display)",
+    "type": "check",
+    "prefstring": "browser.display.use_document_fonts",
+    "topref": "Number(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivBlockMixedDisplayContent": {
+    "label": "Block Mixed Secure/Insecure Display Content",
+    "type": "check",
+    "prefstring": "security.mixed_content.block_display_content",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivCanvasPath": {
+    "label": "Canvas Path Support (OFF: no special HTML5 Rendering Support)",
+    "type": "check",
+    "prefstring": "canvas.path.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivCacheFilesystemReporting": {
+    "label": "Cache Disk Filesystem Information Reporting",
+    "type": "check",
+    "prefstring": "browser.cache.disk.filesystem_reported",
+    "topref": "Number(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivCookies": {
+    "label": "Cookies allowed: SAME ORIGIN ONLY",
+    "type": "check",
+    "prefstring": "network.cookie.cookieBehavior",
+    "topref": "value ? 1 : 0",
+    "frompref": "value == 1"
+  },
+  "prefbar:button:PrivCookiesDisabled": {
+    "label": "Cookies allowed: ALL (BLOCK ALL will result in URL ENCODING == EVEN WORSE!)",
+    "type": "check",
+    "prefstring": "network.cookie.cookieBehavior",
+    "topref": "value ? 0 : 2",
+    "frompref": "value == 0"
+  },
+  "prefbar:button:PrivDOMIndexedDB": {
+    "label": "DOM IndexedDB Legacy Support (OFF: may break older Website functionality)",
+    "type": "check",
+    "prefstring": "dom.indexedDB.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDOMIpcPluginsDetection": {
+    "label": "DOM IPC Plugins Detection (OFF: could limit Browser Fingerprinting)",
+    "type": "check",
+    "prefstring": "dom.ipc.plugins.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivGFXDownloadableFonts": {
+    "label": "GFX Downloadable Fonts (OFF: MAY RESULT IN GARBLED TEXT/SYMBOLS!)",
+    "type": "check",
+    "prefstring": "gfx.downloadable_fonts.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivMediaAPINavigator": {
+    "label": "Media API Navigator (OFF: MAY BREAK HTML5 MEDIA PLAYBACK & CONTROL)",
+    "type": "check",
+    "prefstring": "media.navigator.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivMediaAPINavigatorVideo": {
+    "label": "Media API Navigator Video (OFF: MAY BREAK HTML5 VIDEO PLAYBACK & CONTROL)",
+    "type": "check",
+    "prefstring": "media.navigator.video.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivSendReferrer": {
+    "label": "Send Referrer of HTTP Website when following links (OFF: MAY BREAK LINKS!)",
+    "type": "check",
+    "prefstring": "network.http.sendRefererHeader",
+    "topref": "2*Number(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivSendSecureXSiteReferrer": {
+    "label": "Send Referrer of HTTPS Website when following Links (OFF: MAY BREAK LINKS!)",
+    "type": "check",
+    "prefstring": "network.http.sendSecureXSiteReferrer",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivSocialAPI": {
+    "label": "Social API (OFF: may break Social Network Content!)",
+    "type": "check",
+    "prefstring": "social.toast-notifications.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecActiveContentSocialAPIShareActivationPanel": {
+    "label": "Social API Share Activation Panel (ON: Share Control Panel)",
+    "type": "check",
+    "prefstring": "social.share.activationPanelEnabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:{96749fe7-e269-429b-9213-29fe68d8ec08}": {
+    "type": "separator"
+  },
+  "prefbar:button:PrivFunctionSensitive": {
+    "type": "text",
+    "label": "LOW SIDE EFFECTS POSSIBILITY"
+  },
+  "prefbar:button:{f03a5e45-1244-4ee6-93ee-243331fde1c1}": {
+    "type": "separator"
+  },
+  "prefbar:button:PrivDomStorage": {
+    "label": "DOM Storage (SUPERCOOKIE LOCAL STORAGE; OFF: may break some Pages)",
+    "type": "check",
+    "prefstring": "dom.storage.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDOMDatastore": {
+    "label": "DOM Datastore",
+    "type": "check",
+    "prefstring": "dom.datastore.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDOMClipboardevents": {
+    "label": "DOM Clipboardevents Accessible (OFF: no JS Monkey Business on Copy-Paste)",
+    "type": "check",
+    "prefstring": "dom.event.clipboardevents.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDOMIpcURLCrashreporter": {
+    "label": "DOM IPC URL Crashreporter (sends Crash Reports to Mozilla)",
+    "type": "check",
+    "prefstring": "dom.ipc.plugins.reportCrashURL",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDOMIpcFlashSubprocessCrashreporter": {
+    "label": "DOM IPC Subprocess Crashreporter  (sends Crash Reports to Mozilla)",
+    "type": "check",
+    "prefstring": "dom.ipc.plugins.flash.subprocess.crashreporter.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDOMKeyboardEventCompositionDispatch": {
+    "label": "DOM Keyboardevent Composition Dispatching (ON: may leak typed keys to Pages)",
+    "type": "check",
+    "prefstring": "dom.keyboardevent.dispatch_during_composition",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDOMKeyboardEvent": {
+    "label": "DOM Keyboardevent BeforeAfter Submitting (ON: may leak typed keys to Pages)",
+    "type": "check",
+    "prefstring": "dom.beforeAfterKeyboardEvent.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDOMKeyboardEventCode": {
+    "label": "DOM Keyboardevent Code Submitting (ON: may leak typed keys to Pages)",
+    "type": "check",
+    "prefstring": "dom.keyboardevent.code.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDOMmsRequestReadReport": {
+    "label": "DOM MMS Read RequestReport",
+    "type": "check",
+    "prefstring": "dom.mms.requestReadReport",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDOMmsRequestStatusReport": {
+    "label": "DOM MMS RequestStatusReport",
+    "type": "check",
+    "prefstring": "dom.mms.requestStatusReport",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDOMSmsRequestStatusReport": {
+    "label": "DOM SMS RequestStatusReport",
+    "type": "check",
+    "prefstring": "dom.sms.requestStatusReport",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivFullScreenAPI": {
+    "label": "Full screen API",
+    "type": "check",
+    "prefstring": "full-screen-api.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivGfxColorManagementMode": {
+    "label": "GFX Color Profile Management (OFF: may limit Browser Fingerprinting, but can affect colors across different devices)",
+    "type": "check",
+    "prefstring": "gfx.color_management.mode",
+    "topref": "value ? 2 : 0",
+    "frompref": "value == 2"
+  },
+  "prefbar:button:PrivGFXDownloadableFontsCached": {
+    "label": "GFX Downloadable Fonts Cached (OFF: may limit Browser Fingerprinting, but result in garbled Text Fonts)",
+    "type": "check",
+    "prefstring": "gfx.downloadable_fonts.disable_cache",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:PrivGFXFontRenderingFontconfigFontlist": {
+    "label": "GFX Fontconfig Fontlist Support (OFF: may limit Browser Fingerprinting, but result in garbled Text Fonts)",
+    "type": "check",
+    "prefstring": "gfx.font_rendering.fontconfig.fontlist.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivGeoAPI": {
+    "label": "Geo API (WLAN LOCATION TRACKER; OFF: no location-based Services)",
+    "type": "check",
+    "prefstring": "geo.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivLayoutCSSVisitedLinks": {
+    "label": "Layout CSS Links Visited History (OFF: prevent sniffing visited Links, but losing visited Links color)",
+    "type": "check",
+    "prefstring": "layout.css.visited_links_enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivLoopFacebook": {
+    "label": "Loop Facebook Support (OFF: no Facebook HTML5 Chat/Video Support)",
+    "type": "check",
+    "prefstring": "loop.facebook.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivLoopTextChat": {
+    "label": "Loop / Hello (OFF: no direct P2P HTML5 Chat Support)",
+    "type": "check",
+    "prefstring": "loop.textChat.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivMediaAPINavigatorLoadAdapt": {
+    "label": "Media API Navigator Load Adaption",
+    "type": "check",
+    "prefstring": "media.navigator.load_adapt",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivMediaAPIVideoStats": {
+    "label": "Media API Video Stats Usage (OFF: might impact Web Video Playback!)",
+    "type": "check",
+    "prefstring": "media.video_stats.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivMediaAPIPeerconnectionIdentity": {
+    "label": "Media API Peerconnection Identity",
+    "type": "check",
+    "prefstring": "media.peerconnection.identity.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivPageThumbnailsCapturing": {
+    "type": "check",
+    "label": "Page Thumbnails Capturing",
+    "prefstring": "browser.pagethumbnails.capturing_disabled",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:PrivAddressBarKeywords": {
+    "label": "Search Suggestions AddresBar Keywords",
+    "type": "check",
+    "prefstring": "keyword.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivFormfillEnable": {
+    "label": "SearchBar and Form Autofill",
+    "type": "check",
+    "prefstring": "browser.formfill.enable",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:LocationBarSearchSuggestions": {
+    "label": "Search Suggestions (Search Bar AutoSuggestion from?)",
+    "type": "check",
+    "prefstring": "browser.search.suggest.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivTypeaheadfindFlashbar": {
+    "label": "Typeaheadfind Flashbar",
+    "type": "check",
+    "prefstring": "accessibility.typeaheadfind.flashBar",
+    "topref": "Number(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivTypeaheadfindSelectionPrefill": {
+    "label": "Typeaheadfind Selection Prefill",
+    "type": "check",
+    "prefstring": "accessibility.typeaheadfind.prefillwithselection",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivTypeaheadfindAutostart": {
+    "label": "Typeaheadfind Autostart",
+    "type": "check",
+    "prefstring": "accessibility.typeaheadfind.autostart",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivSearchBarSuggestions": {
+    "label": "URL Bar AutoSuggestions from History",
+    "type": "check",
+    "prefstring": "browser.search.suggest.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivUrlBarBookmarksSuggestion": {
+    "label": "URL Bar Autosuggestions from Bookmarks",
+    "type": "check",
+    "prefstring": "browser.urlbar.suggest.bookmark",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivUrlBarUnifiedComplete": {
+    "label": "URL Bar Unified Complete",
+    "type": "check",
+    "prefstring": "accessibility.typeaheadfind.flashBar",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:{4bdc54ee-e259-4032-b608-0d013c7be6a7}": {
+    "type": "separator"
+  },
+  "prefbar:button:PrivSafe": {
+    "type": "text",
+    "label": "MOSTLY SAFE"
+  },
+  "prefbar:button:{171f4ac3-690f-45ff-917c-ec5c5e9730a5}": {
+    "type": "separator"
+  },
+  "prefbar:button:PrivBeacon": {
+    "label": "Beacon Server-Request Allowed (OFF: stops Server from calling Client Data on Leaving)",
+    "type": "check",
+    "prefstring": "beacon.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivBrowserSendPings": {
+    "label": "Browser sends User Clicktracking Pings",
+    "type": "check",
+    "prefstring": "browser.send_pings",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:CameraControlAutofocusMovingCallback": {
+    "label": "Camera API  Autofocus Moving Callbacks",
+    "type": "check",
+    "prefstring": "camera.control.autofocus_moving_callback.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivCameraControlFaceDetection": {
+    "label": "Camera API  Face Detection (generic 'Face' - not Person - Recognition)",
+    "type": "check",
+    "prefstring": "camera.control.face_detection.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivCookieLifetimePolicy": {
+    "label": "Cookies Lifetime: BROWSER SESSION RESTRICTED",
+    "type": "check",
+    "prefstring": "network.cookie.lifetimePolicy",
+    "topref": "2*Number(value)",
+    "frompref": "value == 2"
+  },
+  "prefbar:button:Priv3rdPartyCookiesSessionRestriction": {
+    "label": "Cookies 3rd Party Lifetime: BROWSER SESSION RESTRICTED",
+    "type": "check",
+    "prefstring": "network.cookie.thirdparty.sessionOnly",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDatareportingHealtreportUplaod": {
+    "label": "Datareporting Healthreport Uplaoding  (uploads Stability & Performance Reports)",
+    "type": "check",
+    "prefstring": "datareporting.healthreport.uploadEnabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDatareportingHealthreportLoggingConsole": {
+    "label": "Datareporting Healthreport Logging Console",
+    "type": "check",
+    "prefstring": "datareporting.healthreport.logging.consoleEnabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDatareportingHealthreportServiceFirstRun": {
+    "label": "Datareporting Healthreport Service FirstRun",
+    "type": "check",
+    "prefstring": "datareporting.healthreport.service.firstRun",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDatareportingHealthreportService": {
+    "label": "Datareporting Healthreport Service  (collects Stability & Performance Reports)",
+    "type": "check",
+    "prefstring": "datareporting.healthreport.service.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDatareportingSessionCurrentClean": {
+    "label": "Datareporting Current Session Clean (MAYBE clean Stability & Performance Reports)",
+    "type": "check",
+    "prefstring": "datareporting.sessions.current.clean",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDatareportingDataSubmissionPolicy": {
+    "label": "Datareporting Data Submission Policy  (send Stability & Performance Reports)",
+    "type": "check",
+    "prefstring": "datareporting.policy.dataSubmissionEnabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDeviceSensors": {
+    "label": "Device Sensors Detection (OFF: may break Screen Orientation on mobile Apps...)",
+    "type": "check",
+    "prefstring": "device.sensors.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDOMAddTestDevices": {
+    "label": "DOM Adding Test VR Devices Support",
+    "type": "check",
+    "prefstring": "dom.vr.add-test-devices",
+    "topref": "Number(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDOMBatteryStatus": {
+    "label": "DOM Battery Status (OFF: may limit Browser Fingerprinting)",
+    "type": "check",
+    "prefstring": "dom.battery.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDOMGamepad": {
+    "label": "DOM Gamepad Status",
+    "type": "check",
+    "prefstring": "dom.gamepad.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDOMIdentity": {
+    "label": "DOM Identity Usage",
+    "type": "check",
+    "prefstring": "dom.identity.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDOMPerformanceUsageSend": {
+    "label": "DOM Performance & Usage Data (send to Mozilla)",
+    "type": "check",
+    "prefstring": "dom.enable_performance",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDOMResourceTimingAPI": {
+    "label": "DOM Resource Timing Browsing Stats (send to Mozilla)",
+    "type": "check",
+    "prefstring": "dom.enable_resource_timing",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDOMNetinfo": {
+    "label": "DOM Send Connection Navigator / Netinfo",
+    "type": "check",
+    "prefstring": "dom.netinfo.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDOMNetwork": {
+    "label": "DOM Send Network Connection Type",
+    "type": "check",
+    "prefstring": "dom.network.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDOMTelephonn": {
+    "label": "DOM Telephony Detection",
+    "type": "check",
+    "prefstring": "dom.telephony.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDOMUserTimingAPI": {
+    "label": "DOM User Timing Browsing Stats (send to Mozilla)",
+    "type": "check",
+    "prefstring": "dom.enable_user_timing",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDOMDetectVR": {
+    "label": "DOM VR Device Detection",
+    "type": "check",
+    "prefstring": "dom.vr.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivDOMOculusVR50": {
+    "label": "DOM VR Oculus 50 Detection",
+    "type": "check",
+    "prefstring": "dom.vr.oculus050.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivMediaAPIWebspeechRecognition": {
+    "label": "Media API Webspeech Recognition",
+    "type": "check",
+    "prefstring": "media.webspeech.recognition.enable",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivNetworkDnsIPv6": {
+    "label": "Network DNS IPv6 Support (OFF: no unique IPv6 Address; may affect some Net Services)",
+    "type": "check",
+    "prefstring": "network.dns.disableIPv6",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:PrivNetworkDnsPrefetch": {
+    "label": "Network DNS Prefetching",
+    "type": "check",
+    "prefstring": "network.dns.disablePrefetch",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:PrivNetworkPrefetchNext": {
+    "label": "Network Prefetch Linked Websites",
+    "type": "check",
+    "prefstring": "network.prefetch-next",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivNetworkPredictor": {
+    "label": "NetworkPredictor (anticipated Web Content Prefetching)",
+    "type": "check",
+    "prefstring": "network.predictor.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecNetworkHttpSPDYv3-1": {
+    "label": "NetworkHttpSPDYv3-1 (Google legacy HTTP accelleration protocol)",
+    "type": "check",
+    "prefstring": "network.http.spdy.enabled.v3-1",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecNetworkHttpSPDYv3": {
+    "label": "NetworkHttpSPDYv3 (Google legacy HTTP accelleration protocol)",
+    "type": "check",
+    "prefstring": "network.http.spdy.enabled.v3",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecNetworkHttp2SPDY": {
+    "label": "NetworkHttp2SPDY (Google legacy HTTP accelleration protocol)",
+    "type": "check",
+    "prefstring": "network.http.spdy.enabled.http2",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecNetworkHttpSPDY": {
+    "label": "NetworkHttpSPDY (Google legacy HTTP accelleration protocol)",
+    "type": "check",
+    "prefstring": "network.http.spdy.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivNewTabAPIPreload": {
+    "label": "NewTab Overview preload recently visited Pages / Ads ",
+    "type": "check",
+    "prefstring": "browser.newtab.preload",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivNewTabPageExposee": {
+    "label": "NewTabPage show recently visited / Ads Overview Page",
+    "type": "check",
+    "prefstring": "browser.newtabpage.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivNewTabPageEnhanced": {
+    "label": "NewTabPage Suggestions by Ads Extension ",
+    "type": "check",
+    "prefstring": "browser.newtabpage.enhanced",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivObserverAPI": {
+    "label": "Observer API (Webpage usage timing tracking)",
+    "type": "check",
+    "prefstring": "dom.idle-observers-api.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecActiveContentPocket": {
+    "label": "Pocket API Support",
+    "type": "check",
+    "prefstring": "browser.pocket.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivSanitizeOnShutdown": {
+    "label": "Browser Sanitize on Exit (CLEAR ALL OF BELOW!)",
+    "type": "check",
+    "prefstring": "privacy.sanitize.sanitizeOnShutdown",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivCOSSiteSettings": {
+    "label": "Browser clear Site Settings on Exit",
+    "type": "check",
+    "prefstring": "privacy.clearOnShutdown.siteSettings",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivCOSSessions": {
+    "label": "Browser clear Sessions on Exit",
+    "type": "check",
+    "prefstring": "privacy.clearOnShutdown.sessions",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivCOSPasswords": {
+    "label": "Browser clear Passwords on Exit",
+    "type": "check",
+    "prefstring": "privacy.clearOnShutdown.passwords",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivCOSOfflineApps": {
+    "label": "Browser clear Offline Apps on Exit",
+    "type": "check",
+    "prefstring": "privacy.clearOnShutdown.offlineApps",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivCOSHistory": {
+    "label": "Browser clear History on Exit",
+    "type": "check",
+    "prefstring": "privacy.clearOnShutdown.history",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivCOSFormdata": {
+    "label": "Browser clear Formdata on Exit",
+    "type": "check",
+    "prefstring": "privacy.clearOnShutdown.formdata",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivCOSDownloads": {
+    "label": "Browser cear Dowloads on Exit",
+    "type": "check",
+    "prefstring": "privacy.clearOnShutdown.downloads",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivCOSCookies": {
+    "label": "Browser clear Cookies on Exit",
+    "type": "check",
+    "prefstring": "privacy.clearOnShutdown.cookies",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivCOSCache": {
+    "label": "Browser Clear Cache on Exit",
+    "type": "check",
+    "prefstring": "privacy.clearOnShutdown.cache",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivCPDExctensionsData": {
+    "label": "Browser clear recent History Extensions Data",
+    "type": "check",
+    "prefstring": "privacy.cpd.extensions-dta",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivCPDSiteSettings": {
+    "label": "Browser clear recent History Site Settings",
+    "type": "check",
+    "prefstring": "privacy.cpd.siteSettings",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivCPDSessions": {
+    "label": "Browser clear recent History Sessions Data",
+    "type": "check",
+    "prefstring": "privacy.cpd.sessions",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivCPDPasswords": {
+    "label": "Browser clear recent History Passwords",
+    "type": "check",
+    "prefstring": "privacy.cpd.passwords",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivCPDHistory": {
+    "label": "Browser clear recent History",
+    "type": "check",
+    "prefstring": "privacy.cpd.history",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivCPDOfflineApps": {
+    "label": "Browser clear recent History Offline App Data",
+    "type": "check",
+    "prefstring": "privacy.cpd.offlineApps",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivCPDFormData": {
+    "label": "Browser clear recent History Form Data",
+    "type": "check",
+    "prefstring": "privacy.cpd.formdata",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivCPDDownloads": {
+    "label": "Browser clear recent History Downloads",
+    "type": "check",
+    "prefstring": "privacy.cpd.downloads",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivCPDCookies": {
+    "label": "Browser clear recent History Cookie Data",
+    "type": "check",
+    "prefstring": "privacy.cpd.cookies",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivCPDCache": {
+    "label": "Browser clear recent History Cache Data",
+    "type": "check",
+    "prefstring": "privacy.cpd.cache",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivSSLErrorReporting": {
+    "label": "SSL Error Reporting (OFF: no Reports collection on TLS Page Encryption Error)",
+    "type": "check",
+    "prefstring": "security.ssl.errorReporting.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivSSLErrorReportingAutomatic": {
+    "label": "SSL Automatic Error Reporting (OFF: no TLS Page Encryption Errors sent to Mozilla)",
+    "type": "check",
+    "prefstring": "security.ssl.errorReporting.automatic",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivTabsSendCrashRepors": {
+    "label": "Tabs Send Crash Reports",
+    "type": "check",
+    "prefstring": "browser.tabs.crashReporting.sendReport",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivToolkitIdentity": {
+    "label": "Toolkit Identity Usage",
+    "type": "check",
+    "prefstring": "toolkit.identity.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivToolkitTelemetryArchive": {
+    "label": "Toolkit Telemetry Archive  (Usage Statistics Archiving)",
+    "type": "check",
+    "prefstring": "toolkit.telemetry.archive.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivToolkitTelemetry": {
+    "label": "Toolkit Telemetry (records Usage Statistics)",
+    "type": "check",
+    "prefstring": "toolkit.telemetry.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivToolkitTelemetryReportFirstRun": {
+    "label": "Toolkit Telemetry Report First Run",
+    "type": "check",
+    "prefstring": "toolkit.telemetry.reportingpolicy.firstRun",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivToolkitTelemetryUnified": {
+    "label": "Toolkit Telemetry Unified (collects Usage Statistics)",
+    "type": "check",
+    "prefstring": "toolkit.telemetry.unified;false",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivTrackingProtection": {
+    "label": "Tracking Protection (requires FF SafeBrowsing!)",
+    "type": "check",
+    "prefstring": "privacy.trackingprotection.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivTrackingProtectionUI": {
+    "label": "Tracking Protection UI Switch (requires FF SafeBrowsing!)",
+    "type": "check",
+    "prefstring": "privacy.trackingprotection.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivTrackingProtectionPBMode": {
+    "label": "Tracking Protection private Browsing Mode (via FF SafeBrowsing)",
+    "type": "check",
+    "prefstring": "privacy.trackingprotection.pbmode.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:PrivSendDoNotTrackHeader": {
+    "label": "Send USELESS DoNotTrack Header",
+    "type": "check",
+    "prefstring": "privacy.donottrackheader.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:separator6": {
+    "type": "separator"
+  },
+  "prefbar:button:{1fb42524-0ef0-4f02-94d9-6fdba038810f}": {
+    "type": "separator"
+  },
+  "prefbar:button:SecFunctionVitals": {
+    "type": "text",
+    "label": "HIGH SIDE EFFECTS POSSIBILITY"
+  },
+  "prefbar:button:{f6eba34d-7448-46bb-bb7d-6c2d264ffb14}": {
+    "type": "separator"
+  },
+  "prefbar:button:SecAsmJS": {
+    "label": "ASM Javascript precompiled code direct computing (OFF: WebGL functionality impact!)",
+    "type": "check",
+    "prefstring": "javascript.options.asmjs",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecAutfillCredentials": {
+    "label": "Autofill Form Credentials",
+    "type": "check",
+    "prefstring": "signon.autofillForms",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecSSLUnsafeNegotiationWarning": {
+    "label": "HTTPS TLS insecure Handshake Warning (ON: Warning but no real Protection!)",
+    "type": "check",
+    "prefstring": "security.ssl.treat_unsafe_negotiation_as_broken",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecSSLInsecurePagesFallbackWhitelistAllowed": {
+    "label": "HTTPS SSL insecure Pages Fallback Whitelist allowed",
+    "type": "check",
+    "prefstring": "security.tls.insecure_fallback_hosts.use_static_list",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecSSLRequireSafeNegotiations": {
+    "label": "HTTPS rejects insecure SSL Connections (ON: may break unsafe Pages!)",
+    "type": "check",
+    "prefstring": "security.ssl.require_safe_negotiation",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecSSLNoInsecureTLSFallbackWhitelistedPages": {
+    "label": "HTTPS rejects insecure SSL Connections from Whitelist (ON: may break unsafe Pages!)",
+    "type": "check",
+    "prefstring": "security.tls.insecure_fallback_hosts.use_static_list",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecWeakSSL3RsaRc4Sha": {
+    "label": "HTTPS Weak Encryption RSA RC4 128 SHA (OFF: may break unsafe Pages!)",
+    "type": "check",
+    "prefstring": "security.ssl3.rsa_rc4_128_sha",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecWeakSSL3RsaRc4Md5": {
+    "label": "HTTPS Weak Encryption RSA RC4 128 MD5 (OFF: may break unsafe Pages!)",
+    "type": "check",
+    "prefstring": "security.ssl3.rsa_rc4_128_md5",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecWeakSSL3RsaDesRC4": {
+    "label": "HTTPS Weak Encryption RSA DES EDE3 SHA (OFF: may break unsafe Pages!)",
+    "type": "check",
+    "prefstring": "security.ssl3.rsa_des_ede3_sha",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecWeakSSL3RsaRC4Sha": {
+    "label": "HTTPS Weak Encryption ECDHE RSA RC4 128 SHA (OFF: may break unsafe Pages!)",
+    "type": "check",
+    "prefstring": "security.ssl3.ecdhe_rsa_rc4_128_sha",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecWeakSSL3EcdsaRC4": {
+    "label": "HTTPS Weak Encryption ECDHE ECDSA RC4 128 SHA (OFF: may break unsafe Pages!)",
+    "type": "check",
+    "prefstring": "security.ssl3.ecdhe_ecdsa_rc4_128_sha",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecActiveContentJavascript": {
+    "label": "JavaScript (OFF: MAY BREAK BASIC WEBSITE FUNCTIONALITY!)",
+    "type": "check",
+    "prefstring": "javascript.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecActiveContentJava": {
+    "label": "Java (ON: HIGH SECURITY RISK - AVOID!)",
+    "type": "extcheck",
+    "setfunction": "prefbarSetJava(value);",
+    "getfunction": "value = prefbarGetJava();"
+  },
+  "prefbar:button:SecActiveContentFlash": {
+    "label": "Flash (ON: HIGH SECURITY/PRIVACY RISK - AVOID!)",
+    "type": "extcheck",
+    "setfunction": "prefbarSetFlash(value);",
+    "getfunction": "value = prefbarGetFlash();"
+  },
+  "prefbar:button:SecActiveContentBlockMixed": {
+    "label": "Block Mixed Secure/Insecure Content (ON: MAY BREAK UNSAFE WEBSITES!)",
+    "type": "check",
+    "prefstring": "security.mixed_content.block_active_content",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecActiveContentMediaAutoplay": {
+    "label": "Media Autoplay (OFF: may affect Video Playback!)",
+    "type": "check",
+    "prefstring": "media.autoplay.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecAPIXpConnetPluginUnrestricted": {
+    "label": "XPConnect Untrusted XPCom Plugins Scripting Allowed (OFF: MAY BREAK PLUGINS!)",
+    "type": "check",
+    "prefstring": "security.xpconnect.plugin.unrestricted",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecWebGL": {
+    "label": "WebGL Direct Web Rendering API (OFF: may impact Performance or Rendering / SECURITY RISK)",
+    "type": "check",
+    "prefstring": "webgl.disabled",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:SecWebGLAPIExtensions": {
+    "label": "WebGL API Extensions",
+    "type": "check",
+    "prefstring": "webgl.disable-extensions",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:SecWebGLPdfJS": {
+    "label": "WebGL API PDF JS Support (OFF: no Browser-PDF Rendering Accelleration)",
+    "type": "check",
+    "prefstring": "pdfjs.enableWebGL",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:{b0a42391-3a95-4b54-b7d7-fcc939d61799}": {
+    "type": "separator"
+  },
+  "prefbar:button:SecFunctionSensitive": {
+    "type": "text",
+    "label": "LOW SIDE EFFECTS POSSIBILITY"
+  },
+  "prefbar:button:{ea50c1ad-3424-4b4b-8437-2bbd7e043a30}": {
+    "type": "separator"
+  },
+  "prefbar:button:SecCanvasCaptureStream": {
+    "label": "Canvas Capture Stream",
+    "type": "check",
+    "prefstring": "canvas.capturestream.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecActiveContentLoop": {
+    "label": "Loop / Hello Video Call API (OFF: disables browser-native Video Chats)",
+    "type": "check",
+    "prefstring": "loop.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecActiveContentEmeAPI": {
+    "label": "Media EME API (Digital Rights Management Enforcing / AVOID IF POSSIBLE!)",
+    "type": "check",
+    "prefstring": "media.eme.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecActiveContentVisibilityEmeAPI": {
+    "label": "Media EME API Visibility (Digital Rights Management exposed / AVOID IF POSSIBLE!)",
+    "type": "check",
+    "prefstring": "media.eme.apiVisible",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecMediaEmeUI": {
+    "label": "Media EME UI (Digital Rights Management UI / AVOID IF POSSIBLE!)",
+    "type": "check",
+    "prefstring": "browser.eme.ui.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecActiveContentMediaAPIGetUserMediaBrowser": {
+    "label": "Media API Getusermedia Browser (WebRTC direct User Media Devices Access)",
+    "type": "check",
+    "prefstring": "media.getusermedia.browser.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecActiveContentMediaAPIGetusermediaScreensharing": {
+    "label": "Media API Getusermedia Screensharing (WebRTC P2P Desktop Screen Sharing / +IP ADDRESS LEAKS!)",
+    "type": "check",
+    "prefstring": "media.getusermedia.screensharing.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecActiveContentMediaAPIPeerconnection": {
+    "label": "Media API Peerconnection (WebRTC P2P Media Stream Transfer / IP ADDRESS LEAKS!)",
+    "type": "check",
+    "prefstring": "media.peerconnection.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecActiveContentMediaAPIPeerconnetionDocIceservers": {
+    "label": "Media API Peerconnection use Document Iceservers",
+    "type": "check",
+    "prefstring": "media.peerconnection.use_document_iceservers",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecActiveContentMediaAPIPeerconnectionVideo": {
+    "label": "Media API Peerconnection Video (WebRTC direct Screen Video connection / +IP ADDRESS LEAKS!)",
+    "type": "check",
+    "prefstring": "media.peerconnection.video.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecActiveContentPdfJS": {
+    "label": "PDF Javascript API (OFF: no Browser-PDF Rendering)",
+    "type": "check",
+    "prefstring": "pdfjs.disabled",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:SecDomEnableResourceTiming": {
+    "type": "check",
+    "label": "Resource API Timing (ON: timing-based SSL attacks possible!)",
+    "prefstring": "dom.enable_resource_timing",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecActiveContentSocialAPIRemoteInstallation": {
+    "label": "Social API Remote Install (OFF: should prevent Social Networks from installing stuff)",
+    "type": "check",
+    "prefstring": "social.remote-install.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:{67a0f6fc-0292-4f96-a91a-6e51fabcc0fb}": {
+    "type": "separator"
+  },
+  "prefbar:button:SecSafe": {
+    "type": "text",
+    "label": "MOSTLY SAFE"
+  },
+  "prefbar:button:{234738bb-8477-49f5-8995-dff27b26ba11}": {
+    "type": "separator"
+  },
+  "prefbar:button:SecActiveExperiments": {
+    "label": "Experiments active (MOZILLA TEST API)",
+    "type": "check",
+    "prefstring": "experiments.activeExperiment",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecExperiementsAPISupport": {
+    "label": "Experimets API Support (MOZILLA TEST API)",
+    "type": "check",
+    "prefstring": "experiments.supported",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecExperiemntsAPI": {
+    "label": "Experimets API (MOZILLA TEST API)",
+    "type": "check",
+    "prefstring": "experiments.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:SecNetworkExperimentsAllowed": {
+    "label": "Experimets over Network allowed (MOZILLA TEST API)",
+    "type": "check",
+    "prefstring": "network.allow-experiments",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:separator11": {
+    "type": "separator"
+  },
+  "prefbar:button:{544ecc0e-4c3f-4c53-b398-62b5f85e0122}": {
+    "type": "separator"
+  },
+  "prefbar:button:TweakImprovements": {
+    "type": "text",
+    "label": "IMPROVES PERFORMANCE"
+  },
+  "prefbar:button:{6234778f-5cf5-406a-b5a3-a5155b56e746}": {
+    "type": "separator"
+  },
+  "prefbar:button:TweakPipelining": {
+    "label": "Pipelining",
+    "type": "extcheck",
+    "setfunction": "prefbarSetPipelining(value);",
+    "getfunction": "value = prefbarGetPipelining();"
+  },
+  "prefbar:button:TweakRAMCachingHTTPS": {
+    "label": "RAM Caching HTTPS Only",
+    "type": "check",
+    "prefstring": "browser.cache.disk_cache_ssl",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:TweakRAMCachingHTTP": {
+    "label": "RAM Caching HTTP Only",
+    "type": "check",
+    "prefstring": "browser.cache.disk.enable",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:{9fcf79cf-36a6-47cd-858b-6ca7a4e584a3}": {
+    "type": "separator"
+  },
+  "prefbar:button:TweakSecuritySensitive": {
+    "type": "text",
+    "label": "SECURITY TRADEOFFS"
+  },
+  "prefbar:button:{22d9c5d1-b217-4d82-9c7a-e400b9134a70}": {
+    "type": "separator"
+  },
+  "prefbar:button:TweakUpdatePlugins": {
+    "label": "Update Plugins Automatically",
+    "type": "check",
+    "prefstring": "plugins.update.notifyUser",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:TweakAutoUpdate": {
+    "label": "Update Browser Automatically",
+    "type": "check",
+    "prefstring": "app.update.auto",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:TweakUpdate": {
+    "label": "Update Browser",
+    "type": "check",
+    "prefstring": "app.update.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:TweakExtensionsAutoUpdate": {
+    "label": "Update Extensions Automatically",
+    "type": "check",
+    "prefstring": "extensions.update.autoUpdateDefault",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:TweakExtensionsUpdate": {
+    "label": "Update Extensions",
+    "type": "check",
+    "prefstring": "extensions.update.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:{ea144c4e-f640-4758-8b98-993cafe52de9}": {
+    "type": "separator"
+  },
+  "prefbar:button:TweakFunctionSensitive": {
+    "type": "text",
+    "label": "LOW SIDE EFFECTS POSSIBILITY"
+  },
+  "prefbar:button:{06f7381c-35ff-4ada-bd5d-cd42380d2651}": {
+    "type": "separator"
+  },
+  "prefbar:button:SecGFXRender": {
+    "label": "GFX XRender Hardware Direct Rendering ",
+    "type": "check",
+    "prefstring": "gfx.xrender.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:TweakHardwareLayersAcceleration": {
+    "label": "Hardware Layers Accelleration",
+    "type": "check",
+    "prefstring": "layers.acceleration.disabled",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:TweakMediaAPIHardwareVideoDecoding": {
+    "label": "Media API Hardware Video Decoding",
+    "type": "check",
+    "prefstring": "media.hardware-video-decoding.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:{65272382-3eff-4eb8-a443-b4101c08220b}": {
+    "type": "separator"
+  },
+  "prefbar:button:TweakSafe": {
+    "type": "text",
+    "label": "MOSTLY SAFE"
+  },
+  "prefbar:button:{dca6cdd1-3686-4ba3-ade2-7d00d881d017}": {
+    "type": "separator"
+  },
+  "prefbar:button:TweakSearchOpenInNewTab": {
+    "label": "Search Bar Result opened in new Tab",
+    "type": "check",
+    "prefstring": "browser.search.openintab",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:{0cd97433-1390-4622-8993-339ffa1e2a08}": {
+    "type": "separator"
+  },
+  "prefbar:button:NoscriptAjaxFallback": {
+    "label": "AJAX Fallback",
+    "type": "check",
+    "prefstring": "noscript.ajaxFallback.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptABE": {
+    "label": "Application Boundary Enforcing (ABE)",
+    "type": "check",
+    "prefstring": "noscript.ABE.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptAutoReload": {
+    "label": "Autoreload on any NoScript Settings change",
+    "type": "check",
+    "prefstring": "noscript.autoReload",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptAutoreloadGlobal": {
+    "label": "Autoreload all Tabs on Allow Scripts Globally",
+    "type": "check",
+    "prefstring": "noscript.autoReload.global",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptReloadAllTabs": {
+    "label": "Autoreload only current Tab on Allow Scripts",
+    "type": "check",
+    "prefstring": "noscript.autoReload.allTabs",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:NoscriptAutoreloadAllTabsOnGlobal": {
+    "label": "Autoreload only current Tab on Allow Scripts globally",
+    "type": "check",
+    "prefstring": "noscript.autoReload.allTabsOnGlobal",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:NoscriptAutoreloadAllTabsOnPageAction": {
+    "label": "Autoreload only current Tab on Allow All On Page",
+    "type": "check",
+    "prefstring": "noscript.autoReload.allTabsOnPageAction",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:NoscriptBookmarks": {
+    "label": "Bookmarks allowed",
+    "type": "check",
+    "prefstring": "noscript.allowBookmarks",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptBookmarkletsAllowed": {
+    "label": "Bookmarklets allowed",
+    "type": "check",
+    "prefstring": "noscript.forbidBookmarklets",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:NoscriptBookmarkletImports": {
+    "label": "Bookmarklet imports allowed",
+    "type": "check",
+    "prefstring": "noscript.allowBookmarkletImports",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptPlugins": {
+    "label": "ClearClick Plugins",
+    "type": "check",
+    "prefstring": "noscript.clearClick.plugins",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptClearClick": {
+    "label": "ClearClick Protection",
+    "type": "check",
+    "prefstring": "noscript.clearClick",
+    "topref": "Number(value ? 3 : 0)",
+    "frompref": "value == 3"
+  },
+  "prefbar:button:NoscriptClipboard": {
+    "label": "Clipboard allowed",
+    "type": "check",
+    "prefstring": "noscript.allowClipboard",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptDoNotTrack": {
+    "label": "Do Not Track",
+    "type": "check",
+    "prefstring": "noscript.doNotTrack.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptEF": {
+    "label": "EF enabled",
+    "type": "check",
+    "prefstring": "noscript.ef.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptFilterExceptionsBlogspot": {
+    "label": "Filter Exceptions Blogspot",
+    "type": "check",
+    "prefstring": "noscript.filterXExceptions.blogspot",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptFilterExceptionsFBConnect": {
+    "label": "Filter Exceptions FBConnect",
+    "type": "check",
+    "prefstring": "noscript.filterXExceptions.fbconnect",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptFilterExceptionsPhotobucket": {
+    "label": "Filter Exceptions Photobucket",
+    "type": "check",
+    "prefstring": "noscript.filterXException.photobucket",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptFilterExceptionsVerizon": {
+    "label": "Filter Exceptions Verizon",
+    "type": "check",
+    "prefstring": "noscript.filterXExceptions.verizon",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptFilterExceptionsVisa": {
+    "label": "Filter Exceptions Visa",
+    "type": "check",
+    "prefstring": "noscript.filterXExceptions.visa",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptFilterExceptionsYahoo": {
+    "label": "Filter Exceptions Yahoo",
+    "type": "check",
+    "prefstring": "noscript.filterXExceptions.yahoo",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptFilterExceptionsZendesk": {
+    "label": "Filter Exceptions Zendesk",
+    "type": "check",
+    "prefstring": "noscript.filterXExceptions.zendesk",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptFonts": {
+    "label": "Fonts allowed customized by Website",
+    "type": "check",
+    "prefstring": "noscript.forbidFonts",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:NoscriptForbidFlash": {
+    "label": "Flash allowed",
+    "type": "check",
+    "prefstring": "noscript.forbidFlash",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:NoscriptFrameOptions": {
+    "label": "Frame Options ",
+    "type": "check",
+    "prefstring": "noscript.frameOptions.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptForbidFrames": {
+    "label": "Frames allowed",
+    "type": "check",
+    "prefstring": "noscript.forbidFrames",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:NoscriptToStaticHTML": {
+    "label": "HTML to Static",
+    "type": "check",
+    "prefstring": "noscript.toStaticHTML",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptGlobalHTTPSWhitelist": {
+    "label": "HTTPS global Whitelist allowed",
+    "type": "check",
+    "prefstring": "noscript.globalHttpsWhitelist",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptHTTPSOnly": {
+    "label": "HTTPS secure Connections enforced",
+    "type": "check",
+    "prefstring": "noscript.allowHttpsOnly",
+    "topref": "Number(value)",
+    "frompref": "value == 1"
+  },
+  "prefbar:button:NoscriptForbidIFrameContext": {
+    "label": "IFrame Context BLOCK ALL",
+    "type": "check",
+    "prefstring": "noscript.forbidIFramesContext",
+    "topref": "Number(value ? 0 : 3)",
+    "frompref": "value == 0"
+  },
+  "prefbar:button:NoscriptForbidIFrames": {
+    "label": "IFrames allowed (ONLY IF CONTEXT NOT BLOCKED)",
+    "type": "check",
+    "prefstring": "noscript.forbidIFrames",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:NoscriptInjectionCheckPost": {
+    "label": "Injection Check Post",
+    "type": "check",
+    "prefstring": "noscript.injectionCheckPost",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptInjectionCheckHTML": {
+    "label": "Injection Check HTML",
+    "type": "check",
+    "prefstring": "noscript.injectionCheckHTML",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptAudioAPI": {
+    "label": "Intercept Audio API",
+    "type": "check",
+    "prefstring": "noscript.audioApiInterception",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptForbidJava": {
+    "label": "Java allowed",
+    "type": "check",
+    "prefstring": "noscript.forbidJava",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:NoscriptLiveConnectInterception": {
+    "label": "Live Connect Interception",
+    "type": "check",
+    "prefstring": "noscript.liveConnectInterception",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptLocalLinks": {
+    "label": "Lokal Links allowed",
+    "type": "check",
+    "prefstring": "noscript.allowLocalLinks",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptForbidMedia": {
+    "label": "Media allowed",
+    "type": "check",
+    "prefstring": "noscript.forbidMedia",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:NoscriptForbidMetaRefresh": {
+    "label": "Meta Refresh allowed",
+    "type": "check",
+    "prefstring": "noscript.forbidMetaRefresh",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:NoscriptForbidMixedFrames": {
+    "label": "Mixed Frames allowed",
+    "type": "check",
+    "prefstring": "noscript.forbidMixedFrames",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:NoscriptNotifyOnUpdate": {
+    "label": "Notify on Updates",
+    "type": "check",
+    "prefstring": "noscript.notify",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:NoscriptNoPing": {
+    "label": "Pings allowed",
+    "type": "check",
+    "prefstring": "noscript.noping",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:NoscriptForbidPlugins": {
+    "label": "Plugins allowed",
+    "type": "check",
+    "prefstring": "noscript.forbidPlugins",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:NoscriptScriptLoadEventsOnlyRequireJS": {
+    "label": "Scripts Load Events Only require JS",
+    "type": "check",
+    "prefstring": "noscript.fakeScriptLoadEvents.onlyRequireJS",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptScriptLoadEvents": {
+    "label": "Scripts Load Events",
+    "type": "check",
+    "prefstring": "noscript.fakeScriptLoadEvents.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptSecureCookies": {
+    "label": "Secure Cookies",
+    "type": "check",
+    "prefstring": "noscript.secureCookies",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptForbidSilverlight": {
+    "label": "Silverlight allowed",
+    "type": "check",
+    "prefstring": "noscript.forbidSilverlight",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:NoscriptSilverlightPatch": {
+    "label": "Silverlight Patch allowed",
+    "type": "check",
+    "prefstring": "noscript.silverlightPatch",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptSmartClickToPlay": {
+    "label": "Smart Click to Play",
+    "type": "check",
+    "prefstring": "noscript.smartClickToPlay",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptRemoveSMILKeySniffer": {
+    "label": "SMIL Key Sniffer allowed",
+    "type": "check",
+    "prefstring": "noscript.removeSMILKeySniffer",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:NoscriptNoSniff": {
+    "label": "Sniffing allowed",
+    "type": "check",
+    "prefstring": "noscript.nosniff",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:NoscriptSound": {
+    "label": "Sound",
+    "type": "check",
+    "prefstring": "noscript.sound",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptSurrogates": {
+    "label": "Surrogate Scripts",
+    "type": "check",
+    "prefstring": "noscript.surrogate.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptSync": {
+    "label": "Sync enabled",
+    "type": "check",
+    "prefstring": "noscript.sync.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptFilterXPost": {
+    "label": "Unfiltered XPost",
+    "type": "check",
+    "prefstring": "noscript.filterXPost",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:NoscriptUnrestrictedSubdocScripting": {
+    "label": "Unrestricted Subdocs Scripting",
+    "type": "check",
+    "prefstring": "noscript.restrictSubdocScripting",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:NoscriptVisibleUIChecked": {
+    "label": "Visible UI Checked",
+    "type": "check",
+    "prefstring": "noscript.visibleUIChecked",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptForbidWebGL": {
+    "label": "WebGL allowed",
+    "type": "check",
+    "prefstring": "noscript.forbidWebGL",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:NoscriptWhitelistImports": {
+    "label": "Whitelisting imports allowed",
+    "type": "check",
+    "prefstring": "noscript.allowWhitelistUpdates",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptForbidXBL": {
+    "label": "XBL allowed",
+    "type": "check",
+    "prefstring": "noscript.forbidXBL",
+    "topref": "Number(value == 1 ? 0 : 1)",
+    "frompref": "value == 0"
+  },
+  "prefbar:button:NoscriptForbidXHR": {
+    "label": "XHR allowed",
+    "type": "check",
+    "prefstring": "noscript.forbidXHR",
+    "topref": "Number(value == 1 ? 0 : 1)",
+    "frompref": "value == 0"
+  },
+  "prefbar:button:NoscriptForbidXSLT": {
+    "label": "XSLT allowed",
+    "type": "check",
+    "prefstring": "noscript.forbidXSLT",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:NoscriptXSSCheckInclusions": {
+    "label": "XSS Check Inclusions",
+    "type": "check",
+    "prefstring": "noscript.xss.checkInclusions",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:NoscriptInjectionCheck": {
+    "label": "XSS Injection Check",
+    "type": "check",
+    "prefstring": "noscript.injectionCheck",
+    "topref": "2*Number(value)",
+    "frompref": "value == 2"
+  },
+  "prefbar:button:NoscriptDropXssProtection": {
+    "label": "XSS Protection DragNDrop",
+    "type": "check",
+    "prefstring": "noscript.dropXssProtection",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:{6bed6390-cce9-43ef-896d-5bea9960a1c2}": {
+    "type": "separator"
+  },
+  "prefbar:button:{cbecc6c0-2eb8-4001-8fe5-0ab3e5886ff8}": {
+    "type": "separator"
+  },
+  "prefbar:button:AppearFunctionVitals": {
+    "type": "text",
+    "label": "HIGH SIDE EFFECTS POSSIBILITY"
+  },
+  "prefbar:button:{4e4eeba9-ca9d-413a-88d1-a7daeb16c7fb}": {
+    "type": "separator"
+  },
+  "prefbar:button:AppearImages": {
+    "label": "Images allowed: ALL",
+    "type": "check",
+    "prefstring": "permissions.default.image",
+    "topref": "value ? 1 : 2",
+    "frompref": "value == 1"
+  },
+  "prefbar:button:AppearImagesBlock3rdParty": {
+    "label": "Images allowed: NO 3rd Party",
+    "type": "check",
+    "prefstring": "permissions.default.image",
+    "topref": "value ? 3 : 1",
+    "frompref": "value == 3"
+  },
+  "prefbar:button:{833c4365-47be-4ce2-b36e-7d11fa05b246}": {
+    "type": "separator"
+  },
+  "prefbar:button:AppearFunctionSensitive": {
+    "type": "text",
+    "label": "LOW SIDE EFFECTS POSSIBILITY"
+  },
+  "prefbar:button:{0fa2fdb4-3ec1-4c86-819c-91d0bd8c97dc}": {
+    "type": "separator"
+  },
+  "prefbar:button:AppearDOMImageSrcSet": {
+    "label": "DOM Image Source Set Manipulation (OFF: no changing of Images by JS)",
+    "type": "check",
+    "prefstring": "dom.image.srcset.enabled",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:AppearDOMWindowsFlipZ": {
+    "label": "DOM WindowsFlip Z-Order (OFF: no layering change tricks by JS)",
+    "type": "check",
+    "prefstring": "dom.disable_window_flip",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:NGLayout Draggable Images": {
+    "label": "NGLayout Draggable Images (OFF: no Image Drag'n'Drop)",
+    "type": "check",
+    "prefstring": "nglayout.enable_drag_images",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:AppearPopups": {
+    "label": "Popups (ON: OPENS ADS POPUP HELL - AVOID!!)",
+    "type": "check",
+    "prefstring": "dom.disable_open_during_load",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:AppearDomWindowMoveResize": {
+    "label": "Window Move/Resize Allowed (OFF: no Window resize/hiding tricks by JS)",
+    "type": "check",
+    "prefstring": "dom.disable_window_move_resize",
+    "topref": "Boolean(!value)",
+    "frompref": "Boolean(!value)"
+  },
+  "prefbar:button:{f90a8aa8-5cc5-493d-8672-f21868ef9de7}": {
+    "type": "separator"
+  },
+  "prefbar:button:AppearSafe": {
+    "type": "text",
+    "label": "MOSTLY SAFE"
+  },
+  "prefbar:button:{7e8811a9-46b1-4eb6-87cb-97a8ab983533}": {
+    "type": "separator"
+  },
+  "prefbar:button:AppearBlockPageAutorefresh": {
+    "label": "Block Page Autorefreshing (no repeated Website reloading)",
+    "type": "check",
+    "prefstring": "accessibility.blockautorefresh",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:AppearColors": {
+    "type": "extcheck",
+    "label": "Colors can be changed by Websites",
+    "setfunction": "prefbarSetColors(value);",
+    "getfunction": "value = prefbarGetColors();"
+  },
+  "prefbar:button:AppearSysColors": {
+    "label": "Color Profile of System used for Firefox",
+    "type": "check",
+    "prefstring": "browser.display.use_system_colors",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:AppearDevtoolsWebIDE": {
+    "label": "Devtools Web IDE",
+    "type": "check",
+    "prefstring": "devtools.webide.enabled",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:AppearDevtoolsWebIDEAutoinstallADBHelper": {
+    "label": "Devtools Web IDE Autoninstall ADBHelper",
+    "type": "check",
+    "prefstring": "devtools.webide.autoinstallADBHelper",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:AppearDevtoolsWebIDEAutoninstallFxdtAdapters": {
+    "label": "Devtools Web IDE Autoninstall Fxdt Adapters",
+    "type": "check",
+    "prefstring": "devtools.webide.autoinstallFxdtAdapters",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:AppearGFXMissingFontsNotification": {
+    "label": "GFX Missing Fonts Notification",
+    "type": "check",
+    "prefstring": "gfx.missing_fonts.notify",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:AppearWebGLMSAA": {
+    "label": "WebGL API Multisampling Antialiasing (Hardware Graphics Beautifying)",
+    "type": "check",
+    "prefstring": "webgl.msaa-force",
+    "topref": "Boolean(value)",
+    "frompref": "Boolean(value)"
+  },
+  "prefbar:button:{f51931cd-9f95-4e65-9786-a7d09eda95c6}": {
+    "type": "separator"
+  }
+}
